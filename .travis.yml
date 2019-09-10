@@ -1,4 +1,5 @@
 language: cpp
 branches:
 - update/add-travis
-
+script:
+- make
