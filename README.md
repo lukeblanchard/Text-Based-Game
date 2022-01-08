@@ -1,5 +1,5 @@
 # Text-Based-Game
-Escape from Moon Base 9 (working title) is a simple text-based game written in c++. 
+Escape from Moon Base 9 is a simple text-based game written in C++. 
 ## Getting Started
 First, clone or download the github repo. 
 Enter the make command to build the program:
